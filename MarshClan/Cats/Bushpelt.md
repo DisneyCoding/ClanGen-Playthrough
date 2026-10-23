@@ -4,5 +4,5 @@ Male (He/Him)
 Medicine Cat
 Nervous
 Fur-Care Enthusiast + Formidable Fighter
-Mates: [[Rollstripe]]
-Children: [[Gladekit]] + [[Sagekit]]
+Mates: [Rollstripe](/MarshClan/Cats/Rollstripe.md)
+Children: [Gladekit](/MarshClan/Cats/Gladekit.md) + [Sagekit](/MarshClan/Cats/Sagekit.md)

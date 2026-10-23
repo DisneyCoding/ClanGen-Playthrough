@@ -4,5 +4,5 @@ Male (He/Him)
 Warrior
 Reserved
 Fast as the Wind + Good Decorator
-Mates: [[Robinpond]] + [[Heatherstripe]]
-Children: [[Irispaw]]
+Mates: [Robinpond](/MarshClan/Cats/Robinpond.md) + [Heatherstripe](/MarshClan/Cats/Heatherstripe.md)
+Children: [Irispaw](/MarshClan/Cats/Irispaw.md)

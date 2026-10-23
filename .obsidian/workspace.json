@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MarshClan/Cats/Heatherstripe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Heatherstripe"
             }
           }
         ]
@@ -206,17 +206,17 @@
   },
   "active": "8cd7a73ae5351fba",
   "lastOpenFiles": [
-    "MarshClan/Cats/Leafstar.md",
-    "README.md",
-    "MarshClan/Cats/Birchshine.md",
-    "Templates/Cat Template.md",
-    "MarshClan/Cats/Thicketface.md",
     "MarshClan/Cats/Bushpelt.md",
-    "MarshClan/Cats/Rollstripe.md",
-    "MarshClan/Cats/Heatherstripe.md",
+    "MarshClan/Cats/Birchshine.md",
     "MarshClan/Cats/Irispaw.md",
-    "MarshClan/Cats/Robinpond.md",
     "MarshClan/Cats/Sleekshadow.md",
+    "MarshClan/Cats/Heatherstripe.md",
+    "MarshClan/Cats/Thicketface.md",
+    "Templates/Cat Template.md",
+    "README.md",
+    "MarshClan/Cats/Leafstar.md",
+    "MarshClan/Cats/Rollstripe.md",
+    "MarshClan/Cats/Robinpond.md",
     "Templates",
     "MarshClan/Cats/desktop.ini",
     "MarshClan/Cats",
