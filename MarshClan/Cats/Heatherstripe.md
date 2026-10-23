@@ -1,4 +1,4 @@
-![Heatherstripe](Images/Heatherstripe.png)
+![Heatherstripe](../../Images/Heatherstripe.png)
 Female (She/Her)
 53 Moons
 Warrior
