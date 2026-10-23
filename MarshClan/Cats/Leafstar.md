@@ -1,7 +1,7 @@
 ![Leafstar](../../Images/Leafstar.png)
 
 ---
-Male (He/Him)
+Male (He/Him) 
 
 110 Moons
 

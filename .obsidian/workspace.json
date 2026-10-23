@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Cat Template.md",
+                "file": "MarshClan/Cats/Fallingkit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cat Template"
+              "title": "Fallingkit"
             }
           }
         ]
@@ -206,17 +206,33 @@
   },
   "active": "8cd7a73ae5351fba",
   "lastOpenFiles": [
-    "MarshClan/Cats/Birchshine.md",
-    "MarshClan/Cats/Bushpelt.md",
-    "MarshClan/Cats/Heatherstripe.md",
+    "MarshClan/Cats/Dewdream.md",
+    "MarshClan/Cats/Fallingkit.md",
+    "MarshClan/Cats/Lightstripe.md",
     "MarshClan/Cats/Irispaw.md",
-    "MarshClan/Cats/Leafstar.md",
-    "MarshClan/Cats/Robinpond.md",
-    "MarshClan/Cats/Thicketface.md",
+    "MarshClan/Cats/Hoppaw.md",
+    "MarshClan/Cats/Peargrass.md",
+    "MarshClan/Cats/Weedpuff.md",
+    "MarshClan/Cats/Whiskermouse.md",
+    "MarshClan/Cats/Molespot.md",
+    "MarshClan/Cats/Strikepaw.md",
+    "MarshClan/Cats/Heatherstripe.md",
+    "MarshClan/Cats/Sleepysnow.md",
+    "MarshClan/Cats/Cloverrock.md",
+    "MarshClan/Cats/Squirrelfreckle.md",
+    "MarshClan/Cats/Gullpelt.md",
     "MarshClan/Cats/Sleekshadow.md",
-    "MarshClan/Cats/Rollstripe.md",
+    "MarshClan/Cats/Robinpond.md",
+    "MarshClan/Cats/Duckstreak.md",
+    "MarshClan/Cats/Roarwisp.md",
+    "MarshClan/Cats/Briarroot.md",
+    "Images/Shrikepaw.png",
+    "MarshClan/Cats/Birchshine.md",
+    "MarshClan/Cats/Leafstar.md",
     "README.md",
     "Templates/Cat Template.md",
+    "MarshClan/Cats/Thicketface.md",
+    "MarshClan/Cats/Rollstripe.md",
     "Templates",
     "MarshClan/Cats/desktop.ini",
     "MarshClan/Cats",
@@ -230,8 +246,6 @@
     "Images/Silverkit.png",
     "Images/Bushpelt.png",
     "Images/Rollstripe.png",
-    "Images/Squirrelfreckle.png",
-    "Images",
-    "Welcome.md"
+    "Images"
   ]
 }
