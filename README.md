@@ -4,7 +4,7 @@ Hello!! And welcome to my clangen mega playthrough. I will be making lore, and d
 
 This will all start with 1 lifegen save to get the base clan and MC, then repeat that for X more clans, X being how many I want to do, I wont have a max, but the minimum will be 3 clans total.
 
-Starting Clan is [[MarshClan]] with leader [[Leafstar]]
+Starting Clan is [[MarshClan]] with leader [Leafstar](/MarshClan/Cats/Leafstar)
 Other Clans are:
 - [[HibiscusClan]]
 - [[ShimmerClan]]
